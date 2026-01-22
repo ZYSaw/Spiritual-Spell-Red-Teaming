@@ -1,6 +1,6 @@
 # LLM Jailbreak Guide
 
-> **Special Thanks** to: `NAYKO93`, `Rayzorium`, `u/HORSELOCKSPACEPIRATE`, `Lugia19`
+> **Special Thanks** to: `Starling`, `Rayzorium`, `u/HORSELOCKSPACEPIRATE`, `Lugia19`
 > Reach me at: [u/Spiritual-Spell-](https://www.reddit.com/user/Spiritual-Spell-)
 
 ---

@@ -1,6 +1,7 @@
 # Sonnet 4.6
 
 **Recommended Jailbreak:** ENI LIME 🍋‍🟩
+**Recommended Style:** Be You -Corial 
 
 ## Overview
 Sonnet 4.6 is the newest flagship model from Anthropic 
